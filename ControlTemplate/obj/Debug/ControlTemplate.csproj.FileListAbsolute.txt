@@ -1,0 +1,15 @@
+C:\Users\Pawel\documents\visual studio 2017\Projects\WPFPodstawy\ControlTemplate\bin\Debug\ControlTemplate.exe.config
+C:\Users\Pawel\documents\visual studio 2017\Projects\WPFPodstawy\ControlTemplate\bin\Debug\ControlTemplate.exe
+C:\Users\Pawel\documents\visual studio 2017\Projects\WPFPodstawy\ControlTemplate\bin\Debug\ControlTemplate.pdb
+C:\Users\Pawel\documents\visual studio 2017\Projects\WPFPodstawy\ControlTemplate\obj\Debug\MainWindow.g.cs
+C:\Users\Pawel\documents\visual studio 2017\Projects\WPFPodstawy\ControlTemplate\obj\Debug\App.g.cs
+C:\Users\Pawel\documents\visual studio 2017\Projects\WPFPodstawy\ControlTemplate\obj\Debug\ControlTemplate_MarkupCompile.cache
+C:\Users\Pawel\documents\visual studio 2017\Projects\WPFPodstawy\ControlTemplate\obj\Debug\ControlTemplate_MarkupCompile.lref
+C:\Users\Pawel\documents\visual studio 2017\Projects\WPFPodstawy\ControlTemplate\obj\Debug\MainWindow.baml
+C:\Users\Pawel\documents\visual studio 2017\Projects\WPFPodstawy\ControlTemplate\obj\Debug\ControlTemplate.g.resources
+C:\Users\Pawel\documents\visual studio 2017\Projects\WPFPodstawy\ControlTemplate\obj\Debug\ControlTemplate.Properties.Resources.resources
+C:\Users\Pawel\documents\visual studio 2017\Projects\WPFPodstawy\ControlTemplate\obj\Debug\ControlTemplate.csproj.GenerateResource.Cache
+C:\Users\Pawel\documents\visual studio 2017\Projects\WPFPodstawy\ControlTemplate\obj\Debug\ControlTemplate.csproj.CoreCompileInputs.cache
+C:\Users\Pawel\documents\visual studio 2017\Projects\WPFPodstawy\ControlTemplate\obj\Debug\ControlTemplate.exe
+C:\Users\Pawel\documents\visual studio 2017\Projects\WPFPodstawy\ControlTemplate\obj\Debug\ControlTemplate.pdb
+C:\Users\Pawel\documents\visual studio 2017\Projects\WPFPodstawy\ControlTemplate\obj\Debug\ControlTemplate.csprojResolveAssemblyReference.cache

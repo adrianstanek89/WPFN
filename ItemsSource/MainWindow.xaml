@@ -1,0 +1,35 @@
+﻿<Window x:Class="ItemsSource.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ItemsSource"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <StackPanel>
+        <Border BorderThickness="2" BorderBrush="Crimson" Margin="10">
+        <ItemsControl ItemsSource="{Binding}">
+            <ItemsControl.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <UniformGrid/>
+                </ItemsPanelTemplate>
+            </ItemsControl.ItemsPanel>
+            <ItemsControl.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel>
+                        <Image x:Name="obrazek" Source="{Binding Path=PathOfImage}" Height="50"/>
+                        <TextBlock x:Name="info" Text="{Binding Path=NameOfImage}" HorizontalAlignment="Center"/>
+                    </StackPanel>
+                    <DataTemplate.Triggers>
+                        <DataTrigger Binding="{Binding Path=IsFound}" Value="False">
+                            <Setter Property="Source" Value="default.png" TargetName="obrazek"/>
+                                <!--ZADANIE przeniesc Value do klasy uzyć bindingu-->
+                                <Setter Property="Text" Value="{Binding Path=DefaultName}" TargetName="info"/>
+                        </DataTrigger>
+                    </DataTemplate.Triggers>
+                </DataTemplate>                
+            </ItemsControl.ItemTemplate>
+        </ItemsControl>
+        </Border>
+    </StackPanel>
+</Window>

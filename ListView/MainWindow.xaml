@@ -1,0 +1,68 @@
+﻿<Window x:Class="ListView.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ListView"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <StackPanel>
+        <ListView x:Name="ListaImion">
+            <ListView.View>
+                <GridView>
+                    <GridView.ColumnHeaderTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding}" FontWeight="Bold"/>
+                        </DataTemplate>
+                    </GridView.ColumnHeaderTemplate>
+                    <GridView.ColumnHeaderContainerStyle>
+                        <Style TargetType="GridViewColumnHeader">
+                            <Setter Property="FontSize" Value="15"/>
+                            <Setter Property="Padding" Value="5"/>
+                            <Setter Property="HorizontalContentAlignment" Value="Left"/>
+                        </Style>
+                    </GridView.ColumnHeaderContainerStyle>
+                <GridView.Columns>
+
+                        <GridViewColumn Width="100">
+                            <GridViewColumnHeader Click="GridViewColumnHeader_Click">
+                                Name
+                            </GridViewColumnHeader>
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Text="{Binding Path=Name}" FontSize="30"/>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>                        
+                        <GridViewColumn DisplayMemberBinding="{Binding Path=Age}" Width="80">
+                            <GridViewColumnHeader Click="GridViewColumnHeader_Click">
+                                Age
+                            </GridViewColumnHeader>                            
+                        </GridViewColumn>
+                        <GridViewColumn Header="Email"  Width="200">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Text="{Binding Path=Email}" Foreground="Blue" TextDecorations="Underline"/>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+                    </GridView.Columns>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <WrapPanel>
+            <Label>Imię:</Label>
+            <TextBox Width="130" x:Name="NameToAdd" GotFocus="NameToAdd_GotFocus" Text="Wpisz imie"></TextBox>
+        </WrapPanel>
+        <WrapPanel>
+            <Label>Wiek:</Label>
+            <TextBox Width="100" x:Name="AgeToAdd"></TextBox>
+        </WrapPanel>
+        <WrapPanel>
+            <Label>Email:</Label>
+            <TextBox Width="100" x:Name="EmailToAdd"></TextBox>
+        </WrapPanel>
+        <Button Click="Button_Click">Dodaj do listy</Button>
+        <Button Click="Button_Click_1">Usuń z listy</Button>
+    </StackPanel>
+</Window>

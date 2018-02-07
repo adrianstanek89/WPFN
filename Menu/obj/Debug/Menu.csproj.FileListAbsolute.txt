@@ -1,0 +1,17 @@
+C:\Users\Pawel\documents\visual studio 2017\Projects\WPFPodstawy\Menu\bin\Debug\Menu.exe.config
+C:\Users\Pawel\documents\visual studio 2017\Projects\WPFPodstawy\Menu\bin\Debug\Menu.exe
+C:\Users\Pawel\documents\visual studio 2017\Projects\WPFPodstawy\Menu\bin\Debug\Menu.pdb
+C:\Users\Pawel\documents\visual studio 2017\Projects\WPFPodstawy\Menu\obj\Debug\MainWindow.g.cs
+C:\Users\Pawel\documents\visual studio 2017\Projects\WPFPodstawy\Menu\obj\Debug\App.g.cs
+C:\Users\Pawel\documents\visual studio 2017\Projects\WPFPodstawy\Menu\obj\Debug\Menu_MarkupCompile.cache
+C:\Users\Pawel\documents\visual studio 2017\Projects\WPFPodstawy\Menu\obj\Debug\Menu_MarkupCompile.lref
+C:\Users\Pawel\documents\visual studio 2017\Projects\WPFPodstawy\Menu\obj\Debug\MainWindow.baml
+C:\Users\Pawel\documents\visual studio 2017\Projects\WPFPodstawy\Menu\obj\Debug\Menu.g.resources
+C:\Users\Pawel\documents\visual studio 2017\Projects\WPFPodstawy\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\Pawel\documents\visual studio 2017\Projects\WPFPodstawy\Menu\obj\Debug\Menu.csproj.GenerateResource.Cache
+C:\Users\Pawel\documents\visual studio 2017\Projects\WPFPodstawy\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\Pawel\documents\visual studio 2017\Projects\WPFPodstawy\Menu\obj\Debug\Menu.exe
+C:\Users\Pawel\documents\visual studio 2017\Projects\WPFPodstawy\Menu\obj\Debug\Menu.pdb
+C:\Users\Pawel\documents\visual studio 2017\Projects\WPFPodstawy\Menu\obj\Debug\Help.g.cs
+C:\Users\Pawel\documents\visual studio 2017\Projects\WPFPodstawy\Menu\obj\Debug\Help.baml
+C:\Users\Pawel\documents\visual studio 2017\Projects\WPFPodstawy\Menu\obj\Debug\Menu.csprojResolveAssemblyReference.cache

@@ -1,0 +1,30 @@
+C:\Users\Pawel\documents\visual studio 2017\Projects\WPFPodstawy\ComboBox\bin\Debug\ComboBox.exe.config
+C:\Users\Pawel\documents\visual studio 2017\Projects\WPFPodstawy\ComboBox\bin\Debug\ComboBox.exe
+C:\Users\Pawel\documents\visual studio 2017\Projects\WPFPodstawy\ComboBox\bin\Debug\ComboBox.pdb
+C:\Users\Pawel\documents\visual studio 2017\Projects\WPFPodstawy\ComboBox\obj\Debug\MainWindow.g.cs
+C:\Users\Pawel\documents\visual studio 2017\Projects\WPFPodstawy\ComboBox\obj\Debug\App.g.cs
+C:\Users\Pawel\documents\visual studio 2017\Projects\WPFPodstawy\ComboBox\obj\Debug\ComboBox_MarkupCompile.cache
+C:\Users\Pawel\documents\visual studio 2017\Projects\WPFPodstawy\ComboBox\obj\Debug\ComboBox_MarkupCompile.lref
+C:\Users\Pawel\documents\visual studio 2017\Projects\WPFPodstawy\ComboBox\obj\Debug\MainWindow.baml
+C:\Users\Pawel\documents\visual studio 2017\Projects\WPFPodstawy\ComboBox\obj\Debug\ComboBox.g.resources
+C:\Users\Pawel\documents\visual studio 2017\Projects\WPFPodstawy\ComboBox\obj\Debug\ComboBox.Properties.Resources.resources
+C:\Users\Pawel\documents\visual studio 2017\Projects\WPFPodstawy\ComboBox\obj\Debug\ComboBox.csproj.GenerateResource.Cache
+C:\Users\Pawel\documents\visual studio 2017\Projects\WPFPodstawy\ComboBox\obj\Debug\ComboBox.csproj.CoreCompileInputs.cache
+C:\Users\Pawel\documents\visual studio 2017\Projects\WPFPodstawy\ComboBox\obj\Debug\ComboBox.exe
+C:\Users\Pawel\documents\visual studio 2017\Projects\WPFPodstawy\ComboBox\obj\Debug\ComboBox.pdb
+C:\Users\Pawel\documents\visual studio 2017\Projects\WPFPodstawy\ComboBox\obj\Debug\ComboBox.csprojResolveAssemblyReference.cache
+C:\Users\inmos\Desktop\WPFPodstawy\ComboBox\bin\Debug\ComboBox.exe.config
+C:\Users\inmos\Desktop\WPFPodstawy\ComboBox\bin\Debug\ComboBox.exe
+C:\Users\inmos\Desktop\WPFPodstawy\ComboBox\bin\Debug\ComboBox.pdb
+C:\Users\inmos\Desktop\WPFPodstawy\ComboBox\obj\Debug\ComboBox.csprojResolveAssemblyReference.cache
+C:\Users\inmos\Desktop\WPFPodstawy\ComboBox\obj\Debug\MainWindow.g.cs
+C:\Users\inmos\Desktop\WPFPodstawy\ComboBox\obj\Debug\App.g.cs
+C:\Users\inmos\Desktop\WPFPodstawy\ComboBox\obj\Debug\ComboBox_MarkupCompile.cache
+C:\Users\inmos\Desktop\WPFPodstawy\ComboBox\obj\Debug\ComboBox_MarkupCompile.lref
+C:\Users\inmos\Desktop\WPFPodstawy\ComboBox\obj\Debug\MainWindow.baml
+C:\Users\inmos\Desktop\WPFPodstawy\ComboBox\obj\Debug\ComboBox.g.resources
+C:\Users\inmos\Desktop\WPFPodstawy\ComboBox\obj\Debug\ComboBox.Properties.Resources.resources
+C:\Users\inmos\Desktop\WPFPodstawy\ComboBox\obj\Debug\ComboBox.csproj.GenerateResource.Cache
+C:\Users\inmos\Desktop\WPFPodstawy\ComboBox\obj\Debug\ComboBox.csproj.CoreCompileInputs.cache
+C:\Users\inmos\Desktop\WPFPodstawy\ComboBox\obj\Debug\ComboBox.exe
+C:\Users\inmos\Desktop\WPFPodstawy\ComboBox\obj\Debug\ComboBox.pdb

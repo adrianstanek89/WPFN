@@ -1,0 +1,7 @@
+C:\Users\Pawel\documents\visual studio 2017\Projects\WPFPodstawy\WPFPodstawy\bin\Debug\WPFPodstawy.exe.config
+C:\Users\Pawel\documents\visual studio 2017\Projects\WPFPodstawy\WPFPodstawy\bin\Debug\WPFPodstawy.exe
+C:\Users\Pawel\documents\visual studio 2017\Projects\WPFPodstawy\WPFPodstawy\bin\Debug\WPFPodstawy.pdb
+C:\Users\Pawel\documents\visual studio 2017\Projects\WPFPodstawy\WPFPodstawy\obj\Debug\ReservationEvent.csprojResolveAssemblyReference.cache
+C:\Users\Pawel\documents\visual studio 2017\Projects\WPFPodstawy\WPFPodstawy\obj\Debug\ReservationEvent.csproj.CoreCompileInputs.cache
+C:\Users\Pawel\documents\visual studio 2017\Projects\WPFPodstawy\WPFPodstawy\obj\Debug\WPFPodstawy.exe
+C:\Users\Pawel\documents\visual studio 2017\Projects\WPFPodstawy\WPFPodstawy\obj\Debug\WPFPodstawy.pdb
